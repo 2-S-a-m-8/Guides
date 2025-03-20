@@ -33,7 +33,7 @@ Suggestions and improvements are welcome! Feel free to open an issue or pull req
 ## 📬 Connect
 
 Maintained by **Samanyu Kiran**  
-[LinkedIn](https://www.linkedin.com/in/samanyu-kiran)
+[LinkedIn](https://www.linkedin.com/in/samanyuk)
 
 ---
 
